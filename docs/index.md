@@ -2,7 +2,7 @@
 
 ???+ info inline end "Edição"
 
-    **20XX.X** <!-- TROCAR -->
+    **2026.2** <!-- TROCAR -->
 
     [Enunciados :material-open-in-new:](https://insper.github.io/ann-dl/){:target='_blank'}
 
@@ -18,7 +18,7 @@ Quem responde por este repositório. Os **exercícios são individuais**; a equi
 
 | Nome completo | E-mail | GitHub |
 |---------------|--------|--------|
-| | | |
+| Fernando Ganzer Koelle | fgkoelle@gmail.com | [@fernandoko3lle](https://github.com/fernandoko3lle) |
 
 !!! tip "Como usar este template"
 
