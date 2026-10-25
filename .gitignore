@@ -4,3 +4,5 @@ env/
 .vscode/
 target/
 docs/exercises/data/code/data/
+docs/projects/eda/code/data/
+__pycache__/
