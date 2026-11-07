@@ -5,4 +5,5 @@ env/
 target/
 docs/exercises/data/code/data/
 docs/projects/eda/code/data/
+docs/exercises/vae/code/data/
 __pycache__/

@@ -1,6 +1,6 @@
 ---
 exercise: mlp
-ai_use: "Claude Code escreveu os scripts de codigo a partir da minha pipeline e das minhas intruções, iteranto e alterando conforme solicitado por mim"
+ai_use: "Claude Code escreveu os scripts de codigo a partir da minha pipeline e das minhas intruções, iteranto e alterando conforme solicitado"
 ---
 
 # 3. MLP

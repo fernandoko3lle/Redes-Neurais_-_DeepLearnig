@@ -16,4 +16,10 @@ numpy
 pandas
 matplotlib
 scikit-learn
+scipy
 umap-learn
+
+# PyTorch CPU-only (bem menor que a build com CUDA; os scripts do VAE não precisam de GPU)
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
