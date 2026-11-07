@@ -1,6 +1,6 @@
 ---
 exercise: vae
-ai_use: "Claude Code escreveu o os dois scripts de experimento a partir da minha pipeline, rodou o treino real no MNIST com as intruções para 20 épocas, d=16 e d=2). Iterou e corrigiu erros sempre que solicitado e também tirou dúvidas sobre o conteúdo sempre que solicitado"
+ai_use: "Claude Code escreveu o os dois scripts de experimento a partir da minha pipeline, rodou o treino real no MNIST com as intruções para 20 épocas, d=16 e d=2). Iterou e corrigiu erros sempre que solicitado e também tirou dúvidas sobre o conteúdo sempre que solicitado."
 ---
 
 # 4. VAE
