@@ -6,4 +6,5 @@ target/
 docs/exercises/data/code/data/
 docs/projects/eda/code/data/
 docs/exercises/vae/code/data/
+docs/projects/classification/code/data/
 __pycache__/
